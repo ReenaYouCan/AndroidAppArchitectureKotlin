@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_fragment.xml",
+        "source": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\src\\main\\res\\layout\\score_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\title_fragment.xml",
+        "source": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\src\\main\\res\\layout\\title_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\game_fragment.xml",
+        "source": "C:\\Users\\reena.nachare\\Kotlin_Practice\\KotlinGuessGame\\app\\src\\main\\res\\layout\\game_fragment.xml"
+    }
+]

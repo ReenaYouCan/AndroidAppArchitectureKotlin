@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\71a5d908cc2971119353956fa21ace31\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\7de5c3a1540a63c3d4b37a1f009db4dc\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\774a5e4db46a71e77cc0b49c9165a224\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\d74caf413d326fc96e0192f84e97e1ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\5451544697edccb50c5f20ae7358e106\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\ecd9703988f0cf270f6dc32a6410adce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5535040e6008d030eaae0d74173bc29a\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\49cb43e85376c63ff8f288e84792aee6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\2cdcccb0e0184feae7531df7dd1f9f34\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\3455046d9e668d61745d8368f6a1086f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\a68f55ffc40f7f4bec7ae81d9f2ed994\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\d06a6fe3e7dc0160fd055b38fa4dc7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\902f75051f65928c241838fbd597a470\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\56780dcf3dda829eb5cb2c88b8ad770e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\fd02506e6b6995c67a976a96d2c64a28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\77243db909ebcfd6130ed9f32f7a958b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\4697c69b930760b885a659d9e02939cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\e3683f6d0d25ed14fa7d02e826921ab2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\082889cefe1b6120d763174c80381a57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b2de114e9e2deca2993d4aabc5967ab6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\da97fa562059fe1986b63c80720cb3a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4c27bd6786e5f3c4f47deede8287c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eeea17b817140140251c0ca6183e5414\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9bd75025d0b630b214bb3c5ae80b7840\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\35bf250a4161a00c484c9afc3062b3c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ee3d14c97dc5720af5896ade784e0eaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0b365f26008122b6f5872e902c4efa0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c9cd3e4b970189a94c1a34130a55a5b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\193bec6d2a792bf714743c3a129b8439\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e3c7d7209eb968061abb6bfbc2ad3479\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\a0b6c14309336a3f3891e018558030f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\d7cd1148292a8e6971fd4e8eceb4247a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\317619e42696ec005fbcb872583a3450\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4592c31015ec9cd5c5464a2ef0d63d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ea1c4e5ce46d9376edc938d46ba49f11\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5642cbc0ba1c48378dc985996a3005d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\20359f109c4f9f0e9d7f0909a7c4f679\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\180a2d7df51ca3e677d2a452391b09ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d5c9bef5f39dfe6bb46115aa37739dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\77b0b6ec900ba26bf04be463c597e7bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\92d045e06df9b8367e98a0813b9b002c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f8a7d20c5ad33cae7434571538cb2d29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0569cb5203abad0323a03931b1eebd6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\da0aebaec216a27de251e27de89f529b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a17f6ac54bed88383626fad7582435a5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:21:5-41:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\5451544697edccb50c5f20ae7358e106\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\5451544697edccb50c5f20ae7358e106\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5535040e6008d030eaae0d74173bc29a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5535040e6008d030eaae0d74173bc29a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\a68f55ffc40f7f4bec7ae81d9f2ed994\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\a68f55ffc40f7f4bec7ae81d9f2ed994\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ea1c4e5ce46d9376edc938d46ba49f11\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ea1c4e5ce46d9376edc938d46ba49f11\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:24:9-41
+	tools:ignore
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:28:9-48
+	android:roundIcon
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.guesstheword.MainActivity
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:name
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:33:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\71a5d908cc2971119353956fa21ace31\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\71a5d908cc2971119353956fa21ace31\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\7de5c3a1540a63c3d4b37a1f009db4dc\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\7de5c3a1540a63c3d4b37a1f009db4dc\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\774a5e4db46a71e77cc0b49c9165a224\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\774a5e4db46a71e77cc0b49c9165a224\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\d74caf413d326fc96e0192f84e97e1ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\d74caf413d326fc96e0192f84e97e1ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\5451544697edccb50c5f20ae7358e106\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\5451544697edccb50c5f20ae7358e106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\ecd9703988f0cf270f6dc32a6410adce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\ecd9703988f0cf270f6dc32a6410adce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5535040e6008d030eaae0d74173bc29a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5535040e6008d030eaae0d74173bc29a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\49cb43e85376c63ff8f288e84792aee6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\49cb43e85376c63ff8f288e84792aee6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\2cdcccb0e0184feae7531df7dd1f9f34\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\2cdcccb0e0184feae7531df7dd1f9f34\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\3455046d9e668d61745d8368f6a1086f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\3455046d9e668d61745d8368f6a1086f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\a68f55ffc40f7f4bec7ae81d9f2ed994\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\a68f55ffc40f7f4bec7ae81d9f2ed994\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\d06a6fe3e7dc0160fd055b38fa4dc7fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\d06a6fe3e7dc0160fd055b38fa4dc7fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\902f75051f65928c241838fbd597a470\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\902f75051f65928c241838fbd597a470\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\56780dcf3dda829eb5cb2c88b8ad770e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\56780dcf3dda829eb5cb2c88b8ad770e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\fd02506e6b6995c67a976a96d2c64a28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\fd02506e6b6995c67a976a96d2c64a28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\77243db909ebcfd6130ed9f32f7a958b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\77243db909ebcfd6130ed9f32f7a958b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\4697c69b930760b885a659d9e02939cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\4697c69b930760b885a659d9e02939cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\e3683f6d0d25ed14fa7d02e826921ab2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\e3683f6d0d25ed14fa7d02e826921ab2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\082889cefe1b6120d763174c80381a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\082889cefe1b6120d763174c80381a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b2de114e9e2deca2993d4aabc5967ab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b2de114e9e2deca2993d4aabc5967ab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\da97fa562059fe1986b63c80720cb3a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\da97fa562059fe1986b63c80720cb3a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4c27bd6786e5f3c4f47deede8287c1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4c27bd6786e5f3c4f47deede8287c1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eeea17b817140140251c0ca6183e5414\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eeea17b817140140251c0ca6183e5414\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9bd75025d0b630b214bb3c5ae80b7840\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9bd75025d0b630b214bb3c5ae80b7840\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\35bf250a4161a00c484c9afc3062b3c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\35bf250a4161a00c484c9afc3062b3c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ee3d14c97dc5720af5896ade784e0eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ee3d14c97dc5720af5896ade784e0eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0b365f26008122b6f5872e902c4efa0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0b365f26008122b6f5872e902c4efa0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c9cd3e4b970189a94c1a34130a55a5b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c9cd3e4b970189a94c1a34130a55a5b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\193bec6d2a792bf714743c3a129b8439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\193bec6d2a792bf714743c3a129b8439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e3c7d7209eb968061abb6bfbc2ad3479\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e3c7d7209eb968061abb6bfbc2ad3479\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\a0b6c14309336a3f3891e018558030f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\a0b6c14309336a3f3891e018558030f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\d7cd1148292a8e6971fd4e8eceb4247a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\d7cd1148292a8e6971fd4e8eceb4247a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7a40f567015f25215fe6293ded22829e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\317619e42696ec005fbcb872583a3450\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\317619e42696ec005fbcb872583a3450\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4592c31015ec9cd5c5464a2ef0d63d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4592c31015ec9cd5c5464a2ef0d63d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ea1c4e5ce46d9376edc938d46ba49f11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ea1c4e5ce46d9376edc938d46ba49f11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5642cbc0ba1c48378dc985996a3005d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5642cbc0ba1c48378dc985996a3005d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\20359f109c4f9f0e9d7f0909a7c4f679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\20359f109c4f9f0e9d7f0909a7c4f679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\180a2d7df51ca3e677d2a452391b09ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\180a2d7df51ca3e677d2a452391b09ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d5c9bef5f39dfe6bb46115aa37739dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5d5c9bef5f39dfe6bb46115aa37739dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\77b0b6ec900ba26bf04be463c597e7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\77b0b6ec900ba26bf04be463c597e7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\92d045e06df9b8367e98a0813b9b002c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\92d045e06df9b8367e98a0813b9b002c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f8a7d20c5ad33cae7434571538cb2d29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f8a7d20c5ad33cae7434571538cb2d29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0569cb5203abad0323a03931b1eebd6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0569cb5203abad0323a03931b1eebd6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\da0aebaec216a27de251e27de89f529b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\da0aebaec216a27de251e27de89f529b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a17f6ac54bed88383626fad7582435a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a17f6ac54bed88383626fad7582435a5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\reena.nachare\Kotlin_Practice\KotlinGuessGame\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\reena.nachare\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\864b9a30f9b4daa5910c9ac5d409c47c\AndroidManifest.xml:24:13-79
